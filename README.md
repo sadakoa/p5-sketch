@@ -4,7 +4,7 @@
 
     Creative coding by p5.js
 
-![p5js.org](http://p5js.org/)
+[p5js.org](http://p5js.org/)
 
 
 ## Author
